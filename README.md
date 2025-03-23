@@ -97,10 +97,10 @@ cd JobSatisfaction_MLProject
 
 ## Dataset
 
-*Processed datasets include:* 
-- Country-specific filtered data
-- PCA-transformed versions (4 components)
-- Cleaned datasets with median imputation
+- **Processed datasets include:** 
+  - Country-specific filtered data
+  - PCA-transformed versions (4 components)
+  - Cleaned datasets with median imputation
 
 
 
