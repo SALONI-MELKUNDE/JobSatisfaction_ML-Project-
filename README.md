@@ -83,7 +83,7 @@ cd JobSatisfaction_MLProject
 ## Usage
 
 1. This will execute:
-         - Data preprocessing
+- Data preprocessing
          - EDA visualizations
          - PCA transformation
          - Model training/evaluation
