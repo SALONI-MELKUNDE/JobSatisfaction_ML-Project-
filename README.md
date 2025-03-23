@@ -105,7 +105,7 @@ This project compares employee job satisfaction between Sweden and Germany using
 
 
 
-## 12. License 📜
+## License 📜
 
 - **This project is licensed under the MIT License.
 (Include or reference the actual LICENSE file in my repository.)**
