@@ -10,7 +10,6 @@ A machine learning project analyzing and predicting job satisfaction using surve
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -100,50 +99,13 @@ cd JobSatisfaction_MLProject
   - Country-specific filtered data
   - PCA-transformed versions (4 components)
   - Cleaned datasets with median imputation
+ 
+## Results
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Workplace relations showed highest correlation with job satisfaction
+- Random Forest and XGBoost achieved best performance
+- Sweden models generally outperformed Germany counterparts
+- PCA helped improve model interpretability
 
 ## License 📜
 
