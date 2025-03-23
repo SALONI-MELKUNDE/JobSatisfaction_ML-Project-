@@ -84,15 +84,15 @@ cd JobSatisfaction_MLProject
 
 1. This will execute:
 - Data preprocessing
-         - EDA visualizations
-         - PCA transformation
-         - Model training/evaluation
-         - Performance metric generation
+- EDA visualizations
+- PCA transformation
+- Model training/evaluation
+- Performance metric generation
 
 2. Outputs will be saved in:
-         - cleaned_datasets/ (processed data)
-         - results/ (visualizations and metrics)
-         - models/ (saved model weights)
+- cleaned_datasets/ (processed data)
+- results/ (visualizations and metrics)
+- models/ (saved model weights)
 
 
 
