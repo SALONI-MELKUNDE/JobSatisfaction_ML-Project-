@@ -95,6 +95,12 @@ cd JobSatisfaction_MLProject
 - models/ (saved model weights)
 
 
+## Dataset
+
+*Processed datasets include:* 
+- Country-specific filtered data
+- PCA-transformed versions (4 components)
+- Cleaned datasets with median imputation
 
 
 
