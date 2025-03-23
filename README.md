@@ -38,6 +38,28 @@ This project compares employee job satisfaction between Sweden and Germany using
 
 ---
 
+## Features
+
+- **Data Preprocessing**:
+  - Handling missing values
+  - Data type conversion
+  - Country-specific filtering
+  - Median imputation
+  
+- **Visualization**:
+  - Distribution plots
+  - Correlation heatmaps
+  - PCA visualizations
+  - Confusion matrices
+  - Feature importance charts
+
+- **Modeling**:
+  - Hyperparameter tuning with GridSearchCV
+  - Cross-validation
+  - Performance metrics tracking
+  - Comparative analysis between countries
+
+---
 
 
 
