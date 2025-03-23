@@ -80,6 +80,21 @@ cd JobSatisfaction_MLProject
 - xgboost==1.7.6
 - ipython==8.12.0
 
+## Usage
+
+1. This will execute:
+         - Data preprocessing
+         - EDA visualizations
+         - PCA transformation
+         - Model training/evaluation
+         - Performance metric generation
+
+2. Outputs will be saved in:
+         - cleaned_datasets/ (processed data)
+         - results/ (visualizations and metrics)
+         - models/ (saved model weights)
+
+
 
 
 
