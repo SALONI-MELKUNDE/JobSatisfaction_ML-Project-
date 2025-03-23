@@ -63,3 +63,56 @@ This project compares employee job satisfaction between Sweden and Germany using
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 12. License 📜
+
+- **This project is licensed under the MIT License.
+(Include or reference the actual LICENSE file in my repository.)**
+
+  
+## Thank you for exploring the EHR_DatabaseProject! 🎉
+
+- **If you have any questions or suggestions, feel free to open an issue or reach out.** 💬 📬
+
+
