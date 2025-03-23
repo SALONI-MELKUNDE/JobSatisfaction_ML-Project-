@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+cleaned_dataset*
+filtered_dataset*
+PCA_*
