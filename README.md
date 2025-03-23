@@ -61,6 +61,15 @@ This project compares employee job satisfaction between Sweden and Germany using
 
 ---
 
+## Installation
+
+1. Clone repository:
+
+```bash
+git clone https://github.com/SALONI-MELKUNDE/JobSatisfaction_MLProject.git
+cd JobSatisfaction_MLProject
+```
+
 
 
 
