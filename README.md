@@ -14,7 +14,7 @@ A machine learning project analyzing and predicting job satisfaction using surve
 
 ---
 
-## Project Overview
+## Project Overview 🌐
 
 This project compares employee job satisfaction between Sweden and Germany using survey data analysis and predictive modeling. Key components:
 
