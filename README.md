@@ -70,6 +70,17 @@ git clone https://github.com/SALONI-MELKUNDE/JobSatisfaction_MLProject.git
 cd JobSatisfaction_MLProject
 ```
 
+2. install requirements files:
+
+-pandas==1.5.3
+-numpy==1.24.3
+-scikit-learn==1.2.2
+-matplotlib==3.7.1
+-plotly==5.14.1
+-xgboost==1.7.6
+-ipython==8.12.0
+
+
 
 
 
