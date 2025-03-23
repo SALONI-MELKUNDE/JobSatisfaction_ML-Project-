@@ -9,7 +9,6 @@ A machine learning project analyzing and predicting job satisfaction using surve
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Methodology](#methodology)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -63,14 +62,14 @@ This project compares employee job satisfaction between Sweden and Germany using
 
 ## Installation
 
-1. Clone repository:
+**1. Clone repository:**
 
 ```bash
 git clone https://github.com/SALONI-MELKUNDE/JobSatisfaction_MLProject.git
 cd JobSatisfaction_MLProject
 ```
 
-2. install requirements files:
+**2. install requirements files:**
 
 - pandas==1.5.3
 - numpy==1.24.3
@@ -82,14 +81,14 @@ cd JobSatisfaction_MLProject
 
 ## Usage
 
-1. This will execute:
+**1. This will execute:**
 - Data preprocessing
 - EDA visualizations
 - PCA transformation
 - Model training/evaluation
 - Performance metric generation
 
-2. Outputs will be saved in:
+**2. Outputs will be saved in:**
 - cleaned_datasets/ (processed data)
 - results/ (visualizations and metrics)
 - models/ (saved model weights)
