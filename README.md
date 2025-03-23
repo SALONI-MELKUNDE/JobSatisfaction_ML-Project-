@@ -1,5 +1,5 @@
 
-# Employee Job Satisfaction Prediction: Sweden vs. Germany
+# Employee Job Satisfaction Prediction: Sweden vs. Germany 🔭🌍
 
 A machine learning project analyzing and predicting job satisfaction using survey data from Sweden and Germany. Includes data cleaning, exploratory analysis, feature engineering, and implementation of various ML models with performance comparison.
 
@@ -36,7 +36,7 @@ This project compares employee job satisfaction between Sweden and Germany using
 
 ---
 
-## Features
+## Features 🔮
 
 - **Data Preprocessing**:
   - Handling missing values
@@ -59,7 +59,7 @@ This project compares employee job satisfaction between Sweden and Germany using
 
 ---
 
-## Installation
+## Installation 🧰
 
 **1. Clone repository:**
 
@@ -78,7 +78,7 @@ cd JobSatisfaction_MLProject
 - xgboost==1.7.6
 - ipython==8.12.0
 
-## Usage
+## Usage 🎯
 
 **1. This will execute:**
 - Data preprocessing
@@ -93,21 +93,21 @@ cd JobSatisfaction_MLProject
 - models/ (saved model weights)
 
 
-## Dataset
+## Dataset 🗃️
 
 - **Processed datasets include:** 
   - Country-specific filtered data
   - PCA-transformed versions (4 components)
   - Cleaned datasets with median imputation
  
-## Results
+## Results 📈
 
 - Workplace relations showed highest correlation with job satisfaction
 - Random Forest and XGBoost achieved best performance
 - Sweden models generally outperformed Germany counterparts
 - PCA helped improve model interpretability
 
-## License 📜
+## License 🛡️
 
 - **This project is licensed under the MIT License.
 (Include or reference the actual LICENSE file in my repository.)**
